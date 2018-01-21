@@ -1,2 +1,2 @@
 # TicTacToe
-Tic tac toe game in c#
+Implementation of Tic tac toe game in C#.
